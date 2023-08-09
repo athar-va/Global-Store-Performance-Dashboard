@@ -1,4 +1,4 @@
-# Employee-Attrition-Summary
+# Global-Store-Performance-Dashboard
 
 This is a demo dashboard created for self-learning.
 This dashboard showcases action filters and customized tooltips (Hover over Category-wise total profits)
